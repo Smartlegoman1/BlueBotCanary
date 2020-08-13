@@ -1,0 +1,16 @@
+{
+    "bot": {
+        "token": "NzI3Nzc0MDk5MDEwNDg2MzEz.Xvwucg.ryk_F3olTwmsSS5GwGBriIpSJrg",
+        "secret": "Nr9YWVDbutZ1OLVQ83c6JF-EYUXuTKZ8",
+        "ownerId": "638632179416432666",
+        "activity": "BlueBot Test",
+        "id": "727774099010486313"
+    },
+    "api": {
+        "port": "3000",
+        "url": "https://bluebot66.glitch.me/api",
+        "stripeSecretKey": ""
+    },
+    "dashboardURL": "https://bluebot66.glitch.me",
+    "mongoURL": "mongodb+srv://Glitch:YouShallNotEverPass@bluecloudcluster1.qb6op.mongodb.net/BlueCloudCluster1?retryWrites=true&w=majority"
+}
